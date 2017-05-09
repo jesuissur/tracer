@@ -14,7 +14,7 @@
     <tags>Fody, Logging, Tracing, NLog, ILWeaving, Cecil, 4NLog</tags>
     <dependencies>
       <group>
-        <dependency id="Tracer.Fody" version="1.6.0" />
+        <dependency id="Tracer.Fody" version="1.6.0-unstable" />
 	    	<dependency id="NLog" version="4.4.1" />
       </group>
     </dependencies>
